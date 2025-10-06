@@ -1,0 +1,13 @@
+Under room temp/70k
+
+Creat freq shift by B0-magnetometry:
+
+B0 not changing, do the denoise measurement, then close negative feedback, do the meansure ment again, . We should have 2 part of data, 1st part is without noise, the 2nd part is with noise. 
+
+Then th rest is just data processing.
+
+
+
+The genral idea:
+
+The negtive feedback gonna make the cantilever stifer, and our thermal noise amplitude is x = 
